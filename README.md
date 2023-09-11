@@ -9,6 +9,7 @@
 - B.Tech CSE final year student
 - WORKING ON DSA IN JAVA
 - Frontend developer skilled in React & Tailwind
+- Planning to learn Spring and Springboot
 - Coding enthusiast
 - Strong communication skills
 <br>
