@@ -8,8 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://mohitsaxenaa.github.io/portfo/](https://mohitsaxenaa.github.io/portfo/)
 - B.Tech CSE final year student
 - WORKING ON DSA IN JAVA
-- Frontend developer skilled in React & Tailwind
-- Planning to learn Spring and Springboot
+- Frontend developer learning in React & Tailwind
 - Coding enthusiast
 - Strong communication skills
 <br>
